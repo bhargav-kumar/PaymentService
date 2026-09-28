@@ -1,4 +1,4 @@
-package com.paymentservice.paymentservice.dto.response;
+package com.org.paymentservice.dto.response;
 
 public class PaymentResponseDTO {
 

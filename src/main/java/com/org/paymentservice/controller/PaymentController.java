@@ -1,9 +1,9 @@
-package com.paymentservice.paymentservice.controller;
+package com.org.paymentservice.controller;
 
 
-import com.paymentservice.paymentservice.dao.entity.PaymentEntity;
-import com.paymentservice.paymentservice.dto.request.PaymentRequestDTO;
-import com.paymentservice.paymentservice.service.PaymentService;
+import com.org.paymentservice.dao.entity.PaymentEntity;
+import com.org.paymentservice.dto.request.PaymentRequestDTO;
+import com.org.paymentservice.service.PaymentService;
 import lombok.AllArgsConstructor;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.web.bind.annotation.PostMapping;

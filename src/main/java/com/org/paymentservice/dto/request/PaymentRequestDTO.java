@@ -1,4 +1,4 @@
-package com.paymentservice.paymentservice.dto.request;
+package com.org.paymentservice.dto.request;
 
 import lombok.*;
 import tools.jackson.databind.annotation.JsonDeserialize;

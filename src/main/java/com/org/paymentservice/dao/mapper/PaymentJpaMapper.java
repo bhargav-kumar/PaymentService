@@ -1,7 +1,7 @@
-package com.paymentservice.paymentservice.dao.mapper;
+package com.org.paymentservice.dao.mapper;
 
-import com.paymentservice.paymentservice.dao.entity.PaymentEntity;
-import com.paymentservice.paymentservice.dto.request.PaymentRequestDTO;
+import com.org.paymentservice.dao.entity.PaymentEntity;
+import com.org.paymentservice.dto.request.PaymentRequestDTO;
 
 public class PaymentJpaMapper {
 

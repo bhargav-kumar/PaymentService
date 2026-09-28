@@ -1,11 +1,11 @@
-package com.paymentservice.paymentservice;
+package com.org.paymentservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 @SpringBootApplication
-@EnableJpaRepositories(basePackages = "com.paymentservice.paymentservice")
+@EnableJpaRepositories(basePackages = "com.org.paymentservice")
 public class PaymentserviceApplication {
 
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.paymentservice.paymentservice.dao.entity;
+package com.org.paymentservice.dao.entity;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Size;
